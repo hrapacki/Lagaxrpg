@@ -1,0 +1,7 @@
+* Hej ty!\n  Tak ty!##T
+<Z>1.png
+* Nie wiem czy wiesz, ale to\n  teren prywatny!###
+* To moje jezioro i nikogo tu\n  nie zapraszalem!###
+* Mam to gdzies, ze musisz sie\n  dostac na druga strone,\n  nie lubie nieproszonych gosci!##T
+<Z>2.png
+* Czas abys stad splywal!##!

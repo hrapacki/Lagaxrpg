@@ -1,0 +1,1 @@
+920 380  textures/boss/boss_magowie.png textures/boss/boss_magowie_def.png textures/enemies/dead.png textures/boss/ksiezyc.png textures/boss/kielich.png textures/boss/asmieczy.png textures/boss/asmonet.png textures/boss/boss_magowie_faza2.png 300 12 10 10 10

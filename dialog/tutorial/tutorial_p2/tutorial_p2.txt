@@ -1,0 +1,24 @@
+* Witaj, mlody podrozniku! Zgaduje, ze jestes tu,\n  by nauczyc sie podstaw gry.##T
+<Z>1.png
+* Mam na imie Hilbert,\n  a to jest moj ziomo, Partake.###
+* Witaj!\n  Mam nadzieje, ze jestes gotowy na przygode.\n  Ale najpierw, musimy pokazac Ci, jak sie\n  tu poruszac.##T
+<Z>2.png
+* Prawda.\n  Wiec zacznijmy od podstaw.\n  W tej grze mozesz podjac rozne dzialania.##T
+<Z>1.png
+* Atakowac, bronic sie, a nawet\n  probowac przekonac przeciwnikow do ucieczki.###
+* Jesli chcesz zaatakowac, nacisnij "1".\n  Po tym bedziesz mial mozliwosc wyboru celu\n  ataku.##T
+<Z>2.png
+* Wybierasz go, klikajac liczbe od 1 do 3.\n  Kazda z tych liczb odpowiada innemu\n  przeciwnikowi.###
+* Co jesli zmienisz zdanie?\n  Nie ma problemu.\n  Mozesz anulowac swoj wybor ataku,\n  naciskajac "Z".##T
+<Z>1.png
+* Wtedy bedziesz mogl wybrac inne dzialanie.###
+* Tak! Na przyklad,\n  jesli zamiast atakowac wolisz obronic sie,\n  nacisnij "2".\n  To pozwoli Ci zaslonic sie przed\n  atakami przeciwnika na te ture.##T
+<Z>2.png
+* Ale pamietaj, obrona nie zawsze\n  jest najlepsza strategia.##T
+<Z>1.png
+* Czasami warto sprobowac innego podejscia.###
+* Jak na przyklad przekonanie przeciwnikow\n  do ucieczki!\n  Mozesz tego sprobowac, naciskajac "3".\n  Ale badz ostrozny, nie zawsze to bedzie dzialac.##T
+<Z>2.png
+* Dokladnie. Kazda decyzja, ktora podejmiesz,\n  bedzie miala swoje konsekwencje.##T
+<Z>1.png
+* No dobrze, to tyle na poczatek. Pokaz,\n  co potrafisz i pokonaj swojego pierwszego\n  przeciwnika!##!

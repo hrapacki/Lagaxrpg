@@ -1,0 +1,12 @@
+* Wspaniale!\n  Wlasnie zakonczyles swoja pierwsza walke!##T
+<Z>1.png
+* Zdecydowanie!\n  Widac, ze szybko chwytasz podstawy.##T
+<Z>2.png
+* Ale to dopiero poczatek.\n  Droga, na ktora zmierzasz jest dluga i\n  momentami moze byc trudna.##T
+<Z>1.png
+* Pamietaj, ze walka nie zawsze\n  bedzie najlepszym rozwiazaniem.###
+* I tak, to jest nasze pozegnanie.##T
+<Z>2.png
+* Wierzymy ze dasz sobie rade i\n  uda ci sie pokonac sily zla.##T
+<Z>3.png
+* Powodzenia, podrozniku!##!

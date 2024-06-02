@@ -1,0 +1,11 @@
+* Och, prosze!\n  Obudziles sie, przeciez to cud!##T
+<Z>1.png
+* Witamy cie w naszym dziwnym swiecie, spioczu.###
+* Czy dobrze sie czujesz?\n  Czy twoje nogi jeszcze cie wspieraja?\n  A moze zapomniales jak chodzic?###
+* Widzisz, to nie byl zwykly sen.###
+* To byla...\n  hm... przerwa.###
+* Tak, przerwa brzmi dobrze.###
+* Byles na dlugiej przerwie, podczas ktorej swiat\n  dookola bardzo sie zmienil.##T
+<Z>2.png
+* Czas, aby wrocic raz jeszcze, wyciagnac swoj\n  miecz i pokonac sily zla.###
+* Wiec, co powiesz, jesli zaczniemy od poczatku i\n  przypomnimy sobie, kim naprawde jestes?##!

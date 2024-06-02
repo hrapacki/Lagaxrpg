@@ -1,0 +1,1 @@
+1100 380 textures/special_enemies/pilski/pilski.png textures/special_enemies/pilski/pilski_def.png textures/special_enemies/pilski/pilski_dead.png 152 8 6 6 6

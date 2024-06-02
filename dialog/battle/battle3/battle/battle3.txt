@@ -1,0 +1,1 @@
+1330 330 textures/enemies/krokodyl.png textures/enemies/krokodyldef.png textures/enemies/krokodyl2faza.png textures/enemies/dead.png 300 12 10 0 10

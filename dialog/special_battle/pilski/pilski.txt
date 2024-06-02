@@ -1,0 +1,18 @@
+Wchodzisz na nieznany teren...##T
+<Z>1.png
+W zasiegu wzroku nic, tylko klosy zboza i\nkukurydza delikatnie poruszajace sie na wietrze###
+Nieopodal slychac dziwny odglos...\njakby chrapanie.##T
+<Z>2.png
+##T
+<Z>3.png
+##T
+<Z>4.png
+* Mam dosc!###
+* To juz ktorys raz w tym tygodniu,\n  jak ktos wchodzi na moje pole!###
+* Nie moge nawet sie spokojnie przespac\n  po calej dniu ciezkiej pracy,\n  bo musze pilnowac zeby nikt mnie nie okradal!###
+* Sianie i zbieranie plonow nie\njest tak proste jak myslisz!##T
+<Z>5.png
+* Mam tego dosc!###
+##T
+<Z>6.png
+* Zaraz pokaze Ci prawdziwe sianie!##!

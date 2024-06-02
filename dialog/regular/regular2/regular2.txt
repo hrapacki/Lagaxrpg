@@ -1,0 +1,19 @@
+Po wyjsciu z lasu, trafiasz na rzeke.##T
+<Z>1.png
+Zauwazasz dwa mosty\nJeden z nich prowadzi do nastepnego lasu\nDrugi prowadzi na kwiatowa lake###
+ktorym mostem przejdziesz?<?T
+<Z>2.png
+*pierwszym###
+*drugim###
+Decydujesz sie przejsc mostem\nprowadzacym do nastepnego lasu#1T
+<Z>3.png
+Przechodzisz przez las bez zadnych problemow##!
+Decydujesz sie przejsc mostem\nprowadzacym na lake pelna kwiatow#2T
+<Z>4.png
+Twoja przeprawa przebiegla bardzo przyjemnie###
+Do tego zebrales mnostwo kwiatow###
+Ale przylecial wielki ptak i zabral\ntwoje kwiaty##T
+<Z>5.png
+##T
+<Z>6.png
+##!

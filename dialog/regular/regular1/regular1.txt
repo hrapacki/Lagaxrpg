@@ -1,0 +1,10 @@
+Podczas swojej podrozy przechodzisz przez\nmala wies##T
+<Z>1.png
+Zauwazasz placzaca dziewczynke##T
+<Z>2.png
+Okazuje sie ze jej kotek wszedl\nna drzewo i nie moze zejsc D:##T
+<Z>3.png
+Bez wahania wskakujesz na drzewo\ni ratujesz kociaka z opresji###
+##T
+<Z>4.png
+Jako wyraz wdziecznosci, dziewczynka\ndaje ci w prezencie 50 monet\n(wydaj je madrze)##!

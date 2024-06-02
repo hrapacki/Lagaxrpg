@@ -1,0 +1,1 @@
+1100 370 dialog/tutorial/tutorial_battle/dummy_idle.png dialog/tutorial/tutorial_battle/dummy_defend.png dialog/tutorial/tutorial_battle/dummy_dead.png 1 0 0 0 0

@@ -1,0 +1,3 @@
+980 340 textures/enemies/enemy.png textures/enemies/enemydef.png textures/enemies/dead.png 50 8 2 2 2
+920 380 textures/enemies/dzik.png textures/enemies/dzikdefence.png textures/enemies/dead.png 50 8 2 2 2
+980 420 textures/enemies/enemy.png textures/enemies/enemydef.png textures/enemies/dead.png 77 8 2 2 2
